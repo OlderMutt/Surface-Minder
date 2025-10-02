@@ -1,6 +1,5 @@
 # SurfaceMinder
 
-> **The Bible**
 > This document explains everything: installation, configuration, components, how to create baselines, how scanning, parsing and notifications work, backup & cleanup, tests, debugging, and recommended best practices.
 
 ---
